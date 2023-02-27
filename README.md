@@ -11,5 +11,5 @@
 ### 2023
 | Title | Venue | Code |
 |-------|-------|------|
-|  [Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation](https://arxiv.org/pdf/2112.02814.pdf) |    ArXiv 2023   |   [Code](https://github.com/hanyue1648/RefT)   |
+|  [Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation](https://arxiv.org/pdf/2301.01156.pdf) |    ArXiv 2023   |   [Code](https://github.com/hanyue1648/RefT)   |
 
