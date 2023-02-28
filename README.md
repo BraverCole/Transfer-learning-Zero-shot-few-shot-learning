@@ -9,7 +9,7 @@
 ### 2023
 | Title | Venue | Code |
 |-------|-------|------|
-|  [Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection](https://arxiv.org/pdf/2211.14782.pdf) |    AAAI 2023   |   code(https://github.com/lxn96/ICPE)   |
+|  [Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection](https://arxiv.org/pdf/2211.14782.pdf) |    AAAI 2023   |   [code](https://github.com/lxn96/ICPE)   |
 
 ## Instance segmetation
 ### 2023
