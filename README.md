@@ -22,5 +22,4 @@
 ### 2023
 | Title | Venue | Code |
 |-------|-------|------|
-|  [ALOFT: A Lightweight MLP-like Architecture with Dynamic
-Low-frequency Transform for Domain Generalization](https://arxiv.org/pdf/2303.11674.pdf) |    ArXiv 2023   |   [Code](https://github.com/lingeringlight/ALOFT/)   |
+|  [ALOFT: A Lightweight MLP-like Architecture with Dynamic Low-frequency Transform for Domain Generalization](https://arxiv.org/pdf/2303.11674.pdf) |    ArXiv 2023   |   [Code](https://github.com/lingeringlight/ALOFT/)   |
